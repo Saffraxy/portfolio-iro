@@ -8,11 +8,14 @@ Well, what can I say about my experience with BLOC so far? Hmmm, at times it's b
 ```
 To display your project's screenshots, create assets and include them in the markdown file:
 ```
+
 What the heck is an asset? I had NO idea. Only because they mentioned screen shots and also included this code:
+
 ```
 {:.center}
 ![]({{ site.baseurl }}/img/blocflix.png)
 ```
+
 did I think, well it must be some kind of image? I am assuming this is pretty normal when you change careers and have to learn all new lingo. Even JSON-- How do coders pronounce that? Is is like "JAY-SUN" (the name) or is it like "JAY-SON". My mentor told me before but it was while we were working on it, which means I was trying to figure out how to get it to run properly, so I didn't register how to pronounce it.
 
 So of course, the hard parts always made me feel really, really dumb. My sister was enrolled in DevBootcamp at the same time and she said everyone in her class felt dumb all the time too so apparently it's normal. My Mentor too often tried to make me feel better, letting me know that there are many ways to code the same thing, and how I was really close to the solution sometimes, and cheered me on whenever I got it right.
