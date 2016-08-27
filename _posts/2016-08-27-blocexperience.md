@@ -6,7 +6,8 @@ title: My experience at BLOC
 Well, what can I say about my experience with BLOC so far? Hmmm, at times it's been hard.  More than once I came across words in the actual assignment that I had to Google the definition for. Even during this Portfolio section there is a line that says:
 
 ```
-To display your project's screenshots, create assets and include them in the markdown file:
+To display your project's screenshots, create assets and include
+them in the markdown file:
 ```
 
 What the heck is an asset? I had NO idea. Only because they mentioned screen shots and also included this code:
