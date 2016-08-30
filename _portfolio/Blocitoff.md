@@ -26,7 +26,7 @@ I was really happy to have figured out how to get the items to add and delete pr
 {:.center}
 After signing in this is the page where the user lands, and where the user may add or delete items from their todo list. In order to delete an item the user just needs to click the checkmark, and instantly the item is removed.
 
-![main page]({{ site.baseurl }}/img/blocitoff.png)
+![main page]({{ site.baseurl }}/img/Blocitoff.png)
 
 ***
 
