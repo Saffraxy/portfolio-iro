@@ -73,8 +73,8 @@
 }
 
 .project-image{
-  overflow: hidden;
-  height: 200px;
+  overflow: inherit;
+  height: 250px;
   img {
     min-width: 275px;
   }
