@@ -3,6 +3,7 @@ layout: page
 title: Contact
 permalink: /contact/
 feature-img: "img/IMG_5550_Fotor.JPG"
+
 ---
 
 To contact me, please use the form below. Thanks!
