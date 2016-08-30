@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-feature-img: "img/IMG_5550_Fotor.JPG"
+feature-img: "img/IMG_5550_Fotor.jpg"
 
 ---
 

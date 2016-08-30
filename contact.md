@@ -2,7 +2,7 @@
 layout: page
 title: Contact
 permalink: /contact/
-feature-img: "img/IMG_5550_Fotor.JPG"
+feature-img: "img/IMG_5550_Fotor.jpg"
 
 ---
 
