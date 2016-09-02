@@ -75,6 +75,9 @@
 .project-image {
   overflow: hidden;
   height: 230px;
+    img {
+      min-height: 100%;
+    }
 }
 
 //.project-image{
