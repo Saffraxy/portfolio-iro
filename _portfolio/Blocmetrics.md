@@ -2,7 +2,7 @@
 layout: post
 title: Blocmetrics
 feature-img: "img/starwarsheader_Fotor.jpg"
-thumbnail-path: "img/cats-love-bar-charts.jpg"
+thumbnail-path: "img/cats-love-bar-charts_edit.jpg"
 short-description: Blocmetrics is an analytics service to track events on websites.
 
 ---

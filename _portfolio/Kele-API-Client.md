@@ -2,7 +2,7 @@
 layout: post
 title: Kele API Client
 feature-img: "img/catoncomputerhamster_Fotor.jpg"
-thumbnail-path: "img/catoncomputerhamster.jpg"
+thumbnail-path: "img/catoncomputerhamster_edit.jpg"
 short-description: Kele is a Ruby Gem API client used to access the Bloc API.
 
 ---

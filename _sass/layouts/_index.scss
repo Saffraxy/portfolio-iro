@@ -72,10 +72,16 @@
   text-align: center;
 }
 
-.project-image{
-  overflow: inherit;
-  height: 250px;
-  img {
-    min-width: 100%;
-  }
+.project-image {
+  overflow: hidden;
+  height: 230px;
+  margin-bottom: 20px;
 }
+
+//.project-image{
+//  overflow: inherit;
+//  height: 250px;
+//  img {
+//    min-width: 100%;
+//  }
+//}

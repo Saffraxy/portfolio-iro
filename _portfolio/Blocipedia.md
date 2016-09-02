@@ -2,7 +2,7 @@
 layout: post
 title: Blocipedia
 feature-img: "img/cat-reading-book2_Fotor.jpg"
-thumbnail-path: "img/cat-reading-book2.jpg"
+thumbnail-path: "img/cat-reading-book2_editv2.jpg"
 short-description: Blocipedia is an application that allows users to create public and private Markdown-based wikis.
 
 ---

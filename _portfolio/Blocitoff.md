@@ -2,7 +2,7 @@
 layout: post
 title: Blocitoff
 feature-img: "img/catchecklist_Fotor.jpg"
-thumbnail-path: "img/catchecklist.jpg"
+thumbnail-path: "img/catchecklist_edit.jpg"
 short-description: Blocitoff is an application that allows users to create self-destructing to-do lists.
 
 ---
